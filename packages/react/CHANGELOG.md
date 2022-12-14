@@ -1,5 +1,17 @@
 # @diroc-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- update
+
+## 5.0.0
+
+### Major Changes
+
+- update
+
 ## 4.0.0
 
 ### Major Changes
