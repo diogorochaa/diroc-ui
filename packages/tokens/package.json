@@ -1,5 +1,5 @@
 {
-  "name": "@dr-ui/tokens",
+  "name": "@diroc-ui/tokens",
   "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
   "author": "diogo.rocha",
   "license": "MIT",
   "devDependencies": {
-    "@dr-ui/eslint-config": "*",
-    "@dr-ui/ts-config": "*",
+    "@diroc-ui/eslint-config": "*",
+    "@diroc-ui/ts-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }

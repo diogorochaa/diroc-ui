@@ -1,4 +1,4 @@
-# @dr-ui/ts-config
+# @diroc-ui/ts-config
 
 ## 2.0.0
 

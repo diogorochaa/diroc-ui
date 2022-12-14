@@ -1,4 +1,4 @@
-# @dr-ui/eslint-config
+# @diroc-ui/eslint-config
 
 ## 2.0.0
 

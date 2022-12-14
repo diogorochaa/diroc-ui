@@ -1,4 +1,4 @@
-# @dr-ui/tokens
+# @diroc-ui/tokens
 
 ## 2.0.0
 

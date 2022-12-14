@@ -1,4 +1,4 @@
-# @dr-ui/react
+# @diroc-ui/react
 
 ## 4.0.0
 
