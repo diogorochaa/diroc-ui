@@ -15,7 +15,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === "PRODUCTION") {
-      config.base = "/monorepo-galaxy/";
+      config.base = "/37-diroc-ui/";
     }
     return config;
   },
