@@ -1,0 +1,2 @@
+import{A as t}from"./index-534f6c5b.js";import"./index-cb59b577.js";import"./es.object.get-own-property-descriptor-b0ef2764.js";import"./index-e13ec8bb.js";import"./jsx-runtime-d9537fda.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/diogorochaa.png",alt:"Diogo Rocha"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-6ab7dbf2.js.map
